@@ -1,0 +1,3 @@
+/* Page-specific styles */
+#projects .project-grid { align-items: stretch; }
+#projects .project-card { height: 100%; }

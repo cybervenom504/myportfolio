@@ -1,0 +1,4 @@
+/* Page-specific styles */
+.hero { position: relative; }
+.project-grid .page-link { transition: transform .25s ease, box-shadow .25s ease; }
+.project-grid .page-link:hover { transform: translateY(-6px); }

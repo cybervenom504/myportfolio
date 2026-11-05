@@ -1,0 +1,4 @@
+/* Page-specific styles */
+#skills .skills-list { max-width: 900px; margin: 0 auto; }
+#skills .skill-item { transition: transform .2s ease; }
+#skills .skill-item:hover { transform: translateY(-4px); }
